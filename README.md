@@ -95,7 +95,7 @@ La base de datos gestor_deportes_acuaticos contiene las siguientes tablas princi
 <img width="570" height="711" alt="image" src="https://github.com/user-attachments/assets/3b357ef7-f2cc-4da8-9c10-fbcbf89646a3" />
 
 
-7. Manual de usuario
+6. Manual de usuario
    
  Pantalla de inicio de sesión
  
