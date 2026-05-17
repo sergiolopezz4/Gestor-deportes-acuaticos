@@ -124,12 +124,6 @@ Los empleados pueden gestionar las reservas y los administradores supervisarlas.
 <img width="364" height="745" alt="image" src="https://github.com/user-attachments/assets/3b711f27-cc31-4db2-9b38-e6af16d5143e" />
 
 
- Pantalla de Administrador
- 
- Permite añadir, eliminar o modificar actividades, horarios, monitores y consultar datos.
- 
- <img width="615" height="607" alt="image" src="https://github.com/user-attachments/assets/0aa11983-ec80-430e-b7e9-fcb1539a3a56" />
-
 
 7. Ejecución del proyecto
    
