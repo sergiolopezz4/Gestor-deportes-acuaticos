@@ -103,7 +103,8 @@ Permite al usuario acceder introduciendo su nombre y contraseña.
 
 Dependiendo del tipo de usuario (cliente, empleado o administrador), se mostrará una interfaz distinta.
 
-<img width="469" height="625" alt="image" src="https://github.com/user-attachments/assets/b615c8dd-9521-47f8-bc36-21a311dee24d" />
+<img width="401" height="557" alt="image" src="https://github.com/user-attachments/assets/a88fb93f-98e7-4764-a3bb-f08602415f2d" />
+
 
  Pantalla de registro
  
@@ -111,7 +112,8 @@ Permite crear nuevos usuarios introduciendo los datos requeridos.
 
 El sistema valida los campos y muestra mensajes de error o confirmación.
 
-<img width="312" height="706" alt="image" src="https://github.com/user-attachments/assets/7eac06bb-8a2e-4e4d-b3b0-aba41882bc6f" />
+<img width="875" height="728" alt="image" src="https://github.com/user-attachments/assets/c0392da0-227f-461d-bd08-424c47367256" />
+
 
  Pantalla de reservas
  
@@ -119,7 +121,8 @@ Permite visualizar las actividades disponibles y realizar reservas.
 
 Los empleados pueden gestionar las reservas y los administradores supervisarlas.
 
-<img width="348" height="696" alt="image" src="https://github.com/user-attachments/assets/02a1e498-35cc-4dbb-9147-6c8fa412eb82" />
+<img width="364" height="745" alt="image" src="https://github.com/user-attachments/assets/3b711f27-cc31-4db2-9b38-e6af16d5143e" />
+
 
  Pantalla de Administrador
  
