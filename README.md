@@ -85,13 +85,15 @@ Contiene utilidades generales del proyecto (por ejemplo, manejo de fechas, valid
 Directorio reservado para recursos adicionales (imágenes, textos, plantillas, etc.).
 
 4. Diagrama de clases (versión textual)
-<img width="1536" height="1024" alt="Copilot_20260517_172326" src="https://github.com/user-attachments/assets/6fcb0d96-008e-498e-a5f7-1af554efbfde" />
+
+<img width="1536" height="1024" alt="entidadRelacion" src="https://github.com/user-attachments/assets/be8353bb-fe13-4423-8a80-17b106dfb9c0" />
 
 5. Modelo entidad–relación de la base de datos
    
 La base de datos gestor_deportes_acuaticos contiene las siguientes tablas principales:
 
-<img width="536" height="733" alt="image" src="https://github.com/user-attachments/assets/68bfd7ee-61f5-4caf-a925-e9776893b32c" />
+<img width="570" height="711" alt="image" src="https://github.com/user-attachments/assets/3b357ef7-f2cc-4da8-9c10-fbcbf89646a3" />
+
 
 7. Manual de usuario
    
@@ -123,7 +125,8 @@ Los empleados pueden gestionar las reservas y los administradores supervisarlas.
  
  Permite añadir, eliminar o modificar actividades, horarios, monitores y consultar datos.
  
- <img width="610" height="610" alt="image" src="https://github.com/user-attachments/assets/0ec64cb5-8635-41ff-9e6b-aea5e6f8468f" />
+ <img width="615" height="607" alt="image" src="https://github.com/user-attachments/assets/0aa11983-ec80-430e-b7e9-fcb1539a3a56" />
+
 
 7. Ejecución del proyecto
    
